@@ -1,0 +1,161 @@
+disease_name,symptoms,description,treatment,prevention,class
+Anthracnose,Dark spots on leaves and fruits with pink spore masses,Fungal disease causing dark lesions on leaves fruits and twigs,Apply copper-based fungicides and remove infected plant parts,Ensure good air circulation and avoid overhead watering,0
+Anthracnose,Brown irregular spots with yellow halos on leaves,Common fungal infection in humid conditions,Use systemic fungicides during rainy season,Prune affected branches and improve drainage,0
+Anthracnose,Black sunken lesions on mature fruits,Post-harvest fungal disease affecting fruit quality,Apply preventive fungicide sprays before harvest,Store fruits in cool dry conditions,0
+Anthracnose,Leaf blight with brown margins and shot holes,Advanced stage of fungal infection,Remove all infected debris and apply fungicide,Space plants properly for air circulation,0
+Anthracnose,Pink to orange spore masses on infected areas,Visible fungal sporulation in humid weather,Apply copper sulfate or mancozeb fungicide,Avoid working with wet plants,0
+Anthracnose,Premature leaf drop with brown spots,Severe infection causing defoliation,Use resistant varieties and fungicide program,Monitor weather conditions for spray timing,0
+Anthracnose,Twig dieback starting from tips,Fungal infection spreading through vascular system,Prune infected twigs and apply wound dressing,Maintain plant health with proper nutrition,0
+Anthracnose,Fruit rot starting from stem end,Post-bloom infection affecting developing fruits,Apply fungicides during flowering period,Remove mummified fruits from tree,0
+Anthracnose,Water-soaked lesions turning brown,Initial symptoms of fungal infection,Start fungicide treatment immediately,Avoid overhead irrigation,0
+Anthracnose,Circular spots with concentric rings,Characteristic symptom of anthracnose fungus,Apply protective fungicides regularly,Use drip irrigation instead of sprinklers,0
+Anthracnose,Yellowing leaves with brown spots,Nutrient deficiency combined with fungal stress,Apply balanced fertilizer with fungicide treatment,Test soil for nutrient levels,0
+Anthracnose,Flower blight causing fruit set failure,Infection affecting reproductive parts,Spray fungicides during pre-bloom period,Maintain optimal humidity levels,0
+Anthracnose,Stem cankers with gum exudation,Severe infection affecting main branches,Prune affected areas and apply copper paste,Avoid mechanical injuries to plants,0
+Anthracnose,Leaf spots enlarging during rainy weather,Weather-dependent disease progression,Time fungicide applications with weather forecasts,Improve field drainage,0
+Anthracnose,Dark streaks on leaf veins,Vascular infection spreading through leaf tissue,Use systemic fungicides for better control,Select disease-resistant cultivars,0
+Anthracnose,Fruit scarring affecting marketability,Cosmetic damage reducing commercial value,Apply protective sprays during fruit development,Harvest at optimal maturity,0
+Anthracnose,Seedling damping off in nursery,Young plant mortality due to soil-borne fungus,Use sterilized potting mix and fungicide drenches,Ensure proper drainage in seedbeds,0
+Anthracnose,Leaf chlorosis with necrotic spots,Combined symptoms of nutrient stress and disease,Apply foliar fertilizers with fungicide,Monitor plant nutrition status,0
+Anthracnose,Branch cankers causing limb breakage,Structural damage due to severe infection,Remove affected limbs and sterilize pruning tools,Train trees for strong branch angles,0
+Anthracnose,Fruit splitting with fungal growth,Secondary infection through mechanical cracks,Handle fruits carefully during harvest,Apply calcium supplements to reduce cracking,0
+Bacterial Canker,Water-soaked lesions on leaves turning brown,Bacterial infection spreading through water,Apply copper-based bactericides,Avoid overhead watering and improve drainage,1
+Bacterial Canker,Sunken cankers on stems with gum oozing,Bacterial infection causing tissue death,Prune infected areas and apply copper compounds,Sterilize pruning tools between cuts,1
+Bacterial Canker,Yellow halos around leaf spots,Characteristic bacterial infection symptom,Use streptomycin or copper sulfate sprays,Remove infected plant debris,1
+Bacterial Canker,Fruit spots with raised margins,Bacterial contamination affecting fruit quality,Apply preventive bactericide sprays,Practice good field sanitation,1
+Bacterial Canker,Leaf wilting despite adequate moisture,Vascular bacterial infection blocking water flow,Remove infected plants to prevent spread,Use certified disease-free planting material,1
+Bacterial Canker,Brown streaks in vascular tissue,Internal bacterial infection affecting transport,Apply systemic bactericides if available,Test irrigation water for bacterial contamination,1
+Bacterial Canker,Premature fruit drop from infected trees,Bacterial toxins affecting fruit attachment,Spray copper compounds during fruit development,Maintain optimal plant nutrition,1
+Bacterial Canker,Twig dieback with bacterial ooze,Progressive branch death from bacterial infection,Cut back to healthy tissue and treat wounds,Avoid high nitrogen fertilization,1
+Bacterial Canker,Leaf scorch symptoms in hot weather,Bacterial blockage reducing water uptake,Provide adequate irrigation and shade,Use reflective mulches to reduce heat stress,1
+Bacterial Canker,Black streaks on fruit surface,Surface bacterial contamination,Wash fruits with chlorinated water,Maintain clean harvest containers,1
+Bacterial Canker,Flower abortion due to bacterial infection,Reproductive failure from pathogen stress,Apply bactericides during bloom period,Remove alternate weed hosts,1
+Bacterial Canker,Root rot symptoms in waterlogged soils,Soil-borne bacterial infection of roots,Improve drainage and reduce irrigation frequency,Use raised beds in poorly drained areas,1
+Bacterial Canker,Stem splitting with bacterial exudate,Advanced bacterial canker causing structural damage,Remove severely affected plants,Avoid mechanical damage to stems,1
+Bacterial Canker,Leaf margin burn with bacterial ooze,Bacterial toxin damage to leaf edges,Apply copper-based sprays to leaf undersides,Reduce humidity around plants,1
+Bacterial Canker,Growth stunting in young plants,Systemic bacterial infection affecting development,Use bactericide drenches on seedlings,Start with pathogen-free seeds,1
+Bacterial Canker,Fruit cracking with secondary bacterial growth,Physical damage allowing bacterial entry,Handle fruits gently and apply protective sprays,Harvest during cool parts of day,1
+Bacterial Canker,Chlorotic spots spreading rapidly,Fast-moving bacterial leaf infection,Apply emergency bactericide treatments,Quarantine affected areas,1
+Bacterial Canker,Gummy stem blight affecting transport,Bacterial infection blocking nutrient flow,Apply systemic treatments if available,Monitor plants for early symptoms,1
+Bacterial Canker,Necrotic leaf tips progressing inward,Bacterial toxin damage starting from margins,Trim affected leaves and apply copper sprays,Ensure adequate potassium nutrition,1
+Bacterial Canker,Fruit surface cracking with ooze,Bacterial pressure causing fruit rupture,Reduce nitrogen and increase calcium,Monitor fruit development closely,1
+Cutting Weevil,Small holes in leaves with chewed margins,Adult weevil feeding damage,Apply insecticides targeting adult weevils,Monitor plants regularly for early detection,2
+Cutting Weevil,Notched leaf edges characteristic of weevil feeding,Distinctive feeding pattern of adult insects,Use pyrethroid or neonicotinoid insecticides,Remove weeds that serve as alternate hosts,2
+Cutting Weevil,Larvae boring into stems causing wilting,Internal damage from developing larvae,Apply systemic insecticides to control larvae,Inspect stems for entry holes,2
+Cutting Weevil,Root feeding damage affecting plant vigor,Underground larvae damaging root system,Use soil insecticides around root zone,Practice crop rotation to break life cycle,2
+Cutting Weevil,Branch girdling from larval tunneling,Severe structural damage from boring larvae,Prune affected branches below damage,Apply trunk treatments with systemic insecticides,2
+Cutting Weevil,Yellowing leaves from root damage,Indirect symptoms of root-feeding larvae,Improve plant nutrition and apply root zone treatments,Use beneficial nematodes for biological control,2
+Cutting Weevil,Plant stunting from continuous feeding,Long-term damage affecting growth,Implement integrated pest management program,Use pheromone traps for monitoring,2
+Cutting Weevil,Bark damage with sap exudation,Adult feeding on tender bark,Apply contact insecticides to bark surface,Maintain tree health to resist attack,2
+Cutting Weevil,Fruit scarring from adult feeding,Direct damage to developing fruits,Time insecticide applications with adult emergence,Use fruit bagging for protection,2
+Cutting Weevil,Seedling mortality in nursery,Young plant death from weevil attack,Apply preventive insecticide treatments to seedlings,Use physical barriers around seedbeds,2
+Cutting Weevil,Branch breakage from weakened tissue,Mechanical failure due to internal damage,Support damaged branches and treat with insecticides,Remove and destroy severely damaged wood,2
+Cutting Weevil,Reduced fruit set from flower damage,Reproductive impact of weevil feeding,Protect flowers with appropriate insecticides,Time treatments with flowering period,2
+Cutting Weevil,Chlorotic foliage despite adequate nutrition,Plant stress response to weevil damage,Apply foliar nutrients along with pest control,Address both pest and nutritional needs,2
+Cutting Weevil,Irregular growth patterns,Uneven development due to selective feeding damage,Apply growth regulators if needed,Maintain consistent pest control program,2
+Cutting Weevil,Secondary infection at feeding sites,Pathogen entry through weevil damage,Combine insecticide with fungicide treatments,Keep wounds clean and dry,2
+Cutting Weevil,Premature leaf senescence,Early aging due to pest stress,Support plant with appropriate nutrition,Reduce other stress factors,2
+Cutting Weevil,Reduced photosynthetic capacity,Loss of leaf area from feeding damage,Apply foliar fertilizers to remaining healthy tissue,Focus on maintaining plant health,2
+Cutting Weevil,Water stress symptoms despite irrigation,Root damage affecting water uptake,Increase irrigation frequency and apply root treatments,Monitor soil moisture carefully,2
+Cutting Weevil,Poor fruit quality from plant stress,Indirect effects on fruit development,Maintain consistent pest control throughout season,Support fruit development with proper nutrition,2
+Cutting Weevil,Increased susceptibility to other pests,Weakened plants attracting secondary pests,Implement comprehensive pest management,Monitor for multiple pest species,2
+Die Back,Progressive branch death from tips,Fungal or bacterial infection causing tissue death,Prune affected branches back to healthy wood,Sterilize tools and improve air circulation,3
+Die Back,Wilting leaves on dying branches,Water stress from vascular blockage,Remove dead branches and apply wound dressing,Test for specific pathogens,3
+Die Back,Brown discoloration in cut branches,Internal tissue death visible when cut,Cut back to white healthy wood,Apply copper-based protective treatments,3
+Die Back,Premature leaf drop on affected branches,Early symptom of branch death,Monitor spread and remove affected parts promptly,Improve overall plant health,3
+Die Back,Cankers at base of dying branches,Entry points for pathogenic organisms,Remove cankers surgically and treat wounds,Avoid mechanical damage to branches,3
+Die Back,Reduced flowering on affected branches,Reproductive decline due to poor health,Focus treatment on healthy remaining branches,Apply balanced nutrition program,3
+Die Back,Bark cracking and peeling,External signs of internal tissue death,Remove loose bark and apply protective coatings,Monitor for insect entry,3
+Die Back,Gum or sap exudation from dying tissue,Plant response to tissue damage,Clean wounds and apply appropriate treatments,Reduce plant stress factors,3
+Die Back,Yellowing foliage before branch death,Early warning sign of impending dieback,Take immediate action to prevent spread,Improve growing conditions,3
+Die Back,Secondary pest attack on weakened branches,Opportunistic insects attacking stressed tissue,Combine pruning with insecticide treatments,Remove all dead wood promptly,3
+Die Back,Fruit abortion on affected branches,Loss of productivity from dying tissue,Salvage healthy branches with proper care,Focus resources on viable plant parts,3
+Die Back,Stunted new growth,Reduced vigor in remaining healthy tissue,Apply growth-promoting treatments,Ensure adequate nutrition and water,3
+Die Back,Increased susceptibility to environmental stress,Weakened plant less able to handle stress,Provide protection from extreme conditions,Mulch and shade as appropriate,3
+Die Back,Root damage associated with above-ground symptoms,Systemic problem affecting entire plant,Investigate root health and treat accordingly,Improve soil conditions,3
+Die Back,Cambial browning in cross-section,Death of growth tissue preventing recovery,Remove all affected tissue completely,Monitor for signs of recovery,3
+Die Back,Poor wound healing,Inability to compartmentalize damage,Apply wound sealants and monitor healing,Reduce additional stress on plant,3
+Die Back,Spread to adjacent healthy branches,Progressive nature of the condition,Create barrier zones by pruning,Apply preventive treatments to healthy tissue,3
+Die Back,Seasonal variation in symptoms,Temperature and moisture affecting progression,Time treatments with seasonal patterns,Adjust care practices seasonally,3
+Die Back,Multiple branch death,Severe cases affecting plant structure,Consider plant replacement if extensively damaged,Salvage operation for valuable plants,3
+Die Back,Associated soil problems,Root zone issues contributing to dieback,Test and amend soil conditions,Improve drainage and aeration,3
+Gall Midge,Small galls on leaves and stems,Insect larvae developing inside plant tissue,Apply systemic insecticides during egg-laying period,Remove and destroy galls before adults emerge,4
+Gall Midge,Distorted leaf growth around galls,Plant tissue response to larval feeding,Prune affected parts and apply growth regulators,Monitor for adult emergence,4
+Gall Midge,Premature leaf drop from gall damage,Severe tissue damage causing abscission,Time treatments with midge life cycle,Use pheromone traps for monitoring,4
+Gall Midge,Reduced photosynthetic area,Loss of functional leaf tissue to galls,Apply foliar nutrients to healthy tissue,Maintain plant vigor through proper care,4
+Gall Midge,Secondary infection at gall sites,Pathogen entry through damaged tissue,Combine insecticide with fungicide treatments,Keep gall wounds clean,4
+Gall Midge,Stunted shoot growth,Terminal damage affecting development,Remove damaged growing points,Apply growth-promoting treatments,4
+Gall Midge,Yellowing around gall formation,Nutrient disruption from larval feeding,Apply systemic nutrition program,Focus on plant health maintenance,4
+Gall Midge,Branch swelling at gall sites,Abnormal tissue proliferation,Prune swollen areas if severely affected,Monitor for structural weakness,4
+Gall Midge,Increased bark thickness,Plant response to continuous irritation,Apply growth regulators if needed,Protect bark from additional damage,4
+Gall Midge,Poor fruit set on affected branches,Reproductive impact of gall damage,Focus care on healthy productive branches,Time pest control with flowering,4
+Gall Midge,Wilting symptoms despite adequate water,Vascular disruption from gall formation,Improve water delivery through healthy tissue,Reduce plant stress factors,4
+Gall Midge,Abnormal leaf shapes,Developmental disruption from early gall formation,Remove affected leaves to prevent spread,Apply preventive treatments,4
+Gall Midge,Reduced cold hardiness,Weakened tissue more susceptible to freeze damage,Provide winter protection,Apply appropriate dormant season care,4
+Gall Midge,Multiple generations per season,Continuous reinfestation requiring ongoing control,Maintain consistent treatment schedule,Break life cycle with targeted applications,4
+Gall Midge,Attracting other insects to galls,Secondary pest problems at damaged sites,Use broad-spectrum pest management,Monitor for pest complex development,4
+Gall Midge,Nutrient deficiency symptoms,Disrupted nutrient flow from gall damage,Apply targeted fertilization program,Test tissue nutrient levels,4
+Gall Midge,Poor wound healing at gall sites,Persistent openings allowing pathogen entry,Apply wound sealants,Keep affected areas dry,4
+Gall Midge,Seasonal peaks in damage,Temperature-dependent development affecting timing,Adjust treatment timing with weather patterns,Use degree-day models for prediction,4
+Gall Midge,Variable symptoms by plant part,Different responses in leaves stems and roots,Target treatments to affected plant parts,Customize control strategies,4
+Gall Midge,Impact on plant architecture,Structural changes from gall formation,Prune to maintain desired plant form,Guide growth away from damaged areas,4
+Healthy,Vibrant green foliage,Normal healthy plant appearance,Continue current maintenance practices,Maintain good cultural practices,5
+Healthy,Strong stem and branch structure,Good structural integrity,Regular pruning for shape,Monitor for any changes,5
+Healthy,Normal fruit development,Proper reproductive function,Continue balanced fertilization,Regular watering schedule,5
+Healthy,Even leaf color distribution,Uniform healthy green color throughout canopy,Maintain current care routine,Seasonal fertilizer applications,5
+Healthy,Good flower production,Normal reproductive development,Continue pollination support,Maintain beneficial insect habitat,5
+Healthy,Vigorous new growth,Active growth indicating plant health,Monitor growth rate seasonally,Adjust care as plant matures,5
+Healthy,Proper leaf size and shape,Normal leaf development,Continue current watering regime,Monitor for any abnormalities,5
+Healthy,No signs of pest damage,Clean healthy tissue,Continue preventive pest monitoring,Maintain beneficial predator populations,5
+Healthy,Good root development,Strong root system supporting plant,Continue soil health practices,Annual soil testing,5
+Healthy,Normal seasonal responses,Appropriate changes with seasons,Adjust care seasonally,Prepare for dormancy periods,5
+Healthy,Balanced branch distribution,Good plant architecture,Selective pruning for structure,Train young plants properly,5
+Healthy,Appropriate growth rate,Steady development matching expectations,Monitor nutrient needs,Adjust feeding as needed,5
+Healthy,Clean bark surface,No signs of disease or pest damage,Continue bark inspection routine,Watch for changes,5
+Healthy,Normal leaf retention,Appropriate leaf lifespan,Continue current practices,Monitor for premature drop,5
+Healthy,Good color in fruits,Normal fruit pigmentation,Continue harvest practices,Monitor fruit quality,5
+Healthy,Strong attachment of plant parts,Good structural integrity throughout plant,Continue support practices,Monitor for any weakness,5
+Healthy,Appropriate response to environmental conditions,Normal adaptation to weather changes,Continue environmental monitoring,Provide protection when needed,5
+Healthy,Good recovery from pruning,Proper wound healing response,Continue proper pruning techniques,Time pruning appropriately,5
+Healthy,Normal water uptake,Efficient water use by plant,Continue irrigation management,Monitor soil moisture,5
+Healthy,Balanced nutrient uptake,Even growth and color indicating good nutrition,Continue fertilization program,Regular soil and tissue testing,5
+Powdery Mildew,White powdery coating on leaves,Fungal infection characteristic of powdery mildew,Apply sulfur-based fungicides or specialized anti-mildew products,Improve air circulation and reduce humidity,6
+Powdery Mildew,Yellowing leaves with white patches,Progressive fungal infection affecting photosynthesis,Use systemic fungicides for better control,Avoid overhead watering,6
+Powdery Mildew,Leaf distortion and curling,Advanced infection causing developmental problems,Apply fungicides and improve growing conditions,Space plants for better air flow,6
+Powdery Mildew,Premature leaf drop,Severe infection causing defoliation,Remove infected leaves and apply treatments,Reduce nitrogen fertilization,6
+Powdery Mildew,White growth on stems and petioles,Fungal spread to woody tissue,Apply fungicides to all affected parts,Prune for better light penetration,6
+Powdery Mildew,Reduced fruit quality,Indirect effects on fruit development,Maintain plant health through disease control,Apply balanced nutrition program,6
+Powdery Mildew,Poor flower development,Infection affecting reproductive parts,Treat during pre-bloom period,Maintain optimal environmental conditions,6
+Powdery Mildew,Stunted growth,Overall plant health decline from chronic infection,Implement comprehensive disease management,Improve growing conditions,6
+Powdery Mildew,Secondary bacterial infections,Weakened tissue susceptible to other pathogens,Combine fungicide with bactericide if needed,Maintain good sanitation,6
+Powdery Mildew,Increased water stress,Reduced photosynthetic capacity affecting water relations,Adjust irrigation to plant needs,Monitor plant water status,6
+Powdery Mildew,Chlorotic spots before white growth appears,Early symptoms of infection,Begin treatments at first sign,Monitor environmental conditions,6
+Powdery Mildew,Fruit surface contamination,Direct infection of developing fruits,Apply protective sprays during fruit development,Time applications with fruit growth stages,6
+Powdery Mildew,Silvery appearance on leaf undersides,Characteristic symptom on leaf backs,Apply fungicides to both leaf surfaces,Ensure good spray coverage,6
+Powdery Mildew,Branch dieback in severe cases,Advanced infection causing tissue death,Prune affected branches and treat cuts,Focus on preventing spread,6
+Powdery Mildew,Seasonal recurrence,Annual reappearance under favorable conditions,Plan preventive treatment schedule,Monitor weather for favorable conditions,6
+Powdery Mildew,Spread during warm dry days with cool nights,Environmental conditions favoring development,Adjust treatments with weather forecasts,Modify microclimate if possible,6
+Powdery Mildew,Reduced cold tolerance,Infected plants more susceptible to cold damage,Provide winter protection if needed,Time treatments before cold weather,6
+Powdery Mildew,Hyperplastic growth,Excessive tissue development in response to infection,Apply growth regulators if available,Focus on disease control,6
+Powdery Mildew,Nutrient deficiency symptoms,Disrupted nutrient uptake from infection,Apply foliar nutrients with fungicides,Test and adjust soil nutrition,6
+Powdery Mildew,Poor marketability of fruits,Cosmetic damage affecting commercial value,Focus on prevention during fruit development,Maintain consistent spray program,6
+Sooty Mould,Black coating on leaf surfaces,Fungal growth on honeydew from sucking insects,Control underlying insect problem first,Wash leaves with soapy water,7
+Sooty Mould,Reduced photosynthesis from blocked light,Indirect damage from fungal coating,Remove mold growth and treat insect vectors,Improve light penetration,7
+Sooty Mould,Associated with aphids or scale insects,Secondary problem following insect infestation,Apply appropriate insecticides for pest control,Monitor for insect populations,7
+Sooty Mould,Sticky honeydew deposits,Insect excretions providing food for mold growth,Control sucking insects producing honeydew,Clean honeydew deposits promptly,7
+Sooty Mould,Easy removal by washing,Surface growth that can be cleaned off,Use high-pressure water or mild detergent solution,Prevent reoccurrence through pest control,7
+Sooty Mould,No direct penetration into plant tissue,Superficial growth not directly parasitic,Focus treatment on underlying causes,Monitor plant health response,7
+Sooty Mould,Yellowing leaves under heavy mold growth,Light deprivation affecting photosynthesis,Remove mold and improve growing conditions,Apply foliar fertilizers if needed,7
+Sooty Mould,Fruit surface contamination,Cosmetic damage affecting marketability,Wash fruits before harvest or marketing,Control insects during fruit development,7
+Sooty Mould,Seasonal variation with insect activity,Mold development following pest population cycles,Time pest control with insect life cycles,Maintain consistent insect monitoring,7
+Sooty Mould,Indicator of underlying pest problems,Early warning sign of insect infestation,Investigate and treat root cause,Implement integrated pest management,7
+Sooty Mould,Poor air circulation promoting growth,Environmental conditions favoring mold development,Improve ventilation around plants,Prune for better air movement,7
+Sooty Mould,Multiple fungal species involved,Complex of different molds contributing to growth,Use broad-spectrum fungicides if needed,Focus on controlling primary insect vectors,7
+Sooty Mould,Reduced fruit quality due to mold coverage,Cosmetic and marketability issues from fungal coating,Wash fruits thoroughly and apply insect control,Use clean harvesting practices,7
+Sooty Mould,Stunted growth from chronic infestation,Long-term effects of light blockage and pest stress,Implement integrated pest and disease management,Improve overall plant vigor,7
+Sooty Mould,Leaf distortion under heavy mold,Physical stress from fungal coating weight,Remove mold and support plant recovery,Ensure proper pruning for plant structure,7
+Sooty Mould,Increased susceptibility to other diseases,Weakened plant health from mold and pests,Monitor for secondary infections,Maintain comprehensive disease control,7
+Sooty Mould,Poor flower development,Indirect effects from reduced photosynthesis,Control insect vectors and clean mold,Support flowering with balanced nutrition,7
+Sooty Mould,Sticky residues on stems and branches,Honeydew accumulation promoting mold growth,Clean affected areas and apply insecticides,Monitor for sap-sucking insects,7
+Sooty Mould,Reduced cold hardiness,Plant stress increasing freeze susceptibility,Provide winter protection,Control pests before cold season,7
+Sooty Mould,Nutrient deficiency symptoms,Indirect stress from blocked photosynthesis,Apply foliar nutrients after mold removal,Test soil and adjust fertilization,7
